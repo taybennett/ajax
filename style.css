@@ -1,0 +1,35 @@
+button, .btn{
+    margin:5px;
+    
+}
+.giphyPic{
+    padding:5px;
+    margin: 5px;
+}
+
+body{
+    
+    background-color: blue;
+	color: white;
+}
+
+.btn-success {
+
+	background-color: white;
+	color: red;
+	border-color: white;
+}
+
+col-md-12 {
+
+	color: blue;
+}
+
+.userInput {
+
+	color: red;
+}
+
+.userInput, select, textarea{
+    color: #ff0000;
+}
